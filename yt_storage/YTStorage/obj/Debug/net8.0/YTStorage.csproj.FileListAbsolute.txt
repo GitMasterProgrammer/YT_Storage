@@ -1,0 +1,17 @@
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\YTStorage.exe
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\YTStorage.deps.json
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\YTStorage.runtimeconfig.json
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\YTStorage.dll
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\YTStorage.pdb
+C:\Users\Kacper\source\repos\YTStorage\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.csproj.CopyComplete
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.dll
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\refint\YTStorage.dll
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.pdb
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\YTStorage.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\YTStorage\obj\Debug\net8.0\ref\YTStorage.dll

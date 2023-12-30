@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\YTStorage.Services\bin\Debug\net8.0\YTStorage.Services.exe
+C:\Users\Kacper\source\repos\YTStorage.Services\bin\Debug\net8.0\YTStorage.Services.deps.json
+C:\Users\Kacper\source\repos\YTStorage.Services\bin\Debug\net8.0\YTStorage.Services.runtimeconfig.json
+C:\Users\Kacper\source\repos\YTStorage.Services\bin\Debug\net8.0\YTStorage.Services.dll
+C:\Users\Kacper\source\repos\YTStorage.Services\bin\Debug\net8.0\YTStorage.Services.pdb
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.dll
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\refint\YTStorage.Services.dll
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.pdb
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\ref\YTStorage.Services.dll
+C:\Users\Kacper\source\repos\YTStorage.Services\obj\Debug\net8.0\YTStorage.Services.csproj.AssemblyReference.cache

@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLnnKG6SV/6AD6v0M7jdknQNTM5GM+5CBI9I0CbLElsDC8n8vBqt8WuGooArALqQrdcm1I4hXOxBWw+nAoElsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\YTStorage.Services\\YTStorage.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.imaging\\3.8.0\\accord.imaging.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.video\\3.8.0\\accord.video.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.video.ffmpeg\\3.8.0\\accord.video.ffmpeg.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\accord.video.vfw\\3.8.0\\accord.video.vfw.3.8.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\aforge.controls.matrixden\\2.2.5.1\\aforge.controls.matrixden.2.2.5.1.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Controls.Matrixden 2.2.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Controls.Matrixden",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Imaging 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Imaging",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Math 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Math",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Video 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Video",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

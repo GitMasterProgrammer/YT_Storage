@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhGBVW0AX+1zKEz3f6ffng8+fuP7Mw74WlWMEZxO7RdURu4dZWjQJULBBpiYpc9FSIpLLRhhktOCPHp2ypj9bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\YTStorage.Schemas\\YTStorage.Schemas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: An error occurred while sending the request."
+    }
+  ]
+}
